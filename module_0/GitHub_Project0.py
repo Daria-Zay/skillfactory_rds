@@ -33,3 +33,4 @@ def score_game(game_core_v_by_DZ,size=1000):#по умолчанию 1000 эле
 
 # запускаем
 score_game(game_core_v_by_DZ,2000) 
+
